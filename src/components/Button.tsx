@@ -6,7 +6,6 @@ export interface ButtonProps {
 }
 
 export function Button ({ children }: ButtonProps) {
-
   return (
     <button className={clsx(
       'py-4 px-3 rounded-lg font-semibold text-sm w-full',
