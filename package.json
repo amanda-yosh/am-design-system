@@ -6,6 +6,7 @@
   "engines": {
     "node": "16"
   },
+  "homepage": "https://amanda-yosh.github.io/am-design-system/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
